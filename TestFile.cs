@@ -25,6 +25,13 @@ namespace SeleniumAutomation1
             IWebDriver driver = new FirefoxDriver();
 
 
+            // this is change 1
+            // this is change 2
+
+            // first variable:
+            int x = 25
+            string name = "bdinfotech";
+
 
             driver.Navigate().GoToUrl("https://www.guru99.com/");
 
