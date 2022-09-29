@@ -32,6 +32,10 @@ namespace SeleniumAutomation1
             int x = 25
             string name = "bdinfotech";
 
+            
+            // this is a change made by Someone
+            
+            char c = 'A';
 
             driver.Navigate().GoToUrl("https://www.guru99.com/");
 
