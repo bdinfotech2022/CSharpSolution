@@ -22,6 +22,11 @@ namespace SeleniumAutomation1
         public static void Main(string[] args)
         {
 
+            string desc = "commit korar pore kotahy jabo";
+
+            int num = 20;
+            string name = "mitu";
+
             IWebDriver driver = new FirefoxDriver();
 
             // I am larning
