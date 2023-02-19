@@ -21,6 +21,14 @@ namespace SeleniumAutomation1
 
         public static void Main(string[] args)
         {
+            
+            // My name Nayon
+            // I am lerning
+
+
+
+            // int myNum = 100;
+
 
             string desc = "commit korar pore kotahy jabo";
 
