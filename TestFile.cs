@@ -82,6 +82,9 @@ namespace SeleniumAutomation1
 
 
             driver.Navigate().GoToUrl("https://www.guru99.com/");
+            driver.Navigate().GoToUrl("https://www.google.com");
+            driver.Navigate().GoToUrl("https://www.yahoo.com/");
+            
 
 
         }
