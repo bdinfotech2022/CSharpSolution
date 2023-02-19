@@ -51,6 +51,7 @@ namespace SeleniumAutomation1
 
             // Today is Sunday
             // I am came in the class at 10 am
+
             driver.Manage().Window.Minimize();
             Thread.Sleep(2000);
             driver.Manage().Window.Maximize();
@@ -78,7 +79,11 @@ namespace SeleniumAutomation1
           //   for mouse action: we need to import this: using OpenQA.Selenium.Interactions;
             IWebElement clickable = driver.FindElement(By.Id("clickable"));
             new Actions(driver).ClickAndHold(clickable).Perform();
-         
+
+
+            driver.Navigate().GoToUrl("https://www.guru99.com/");
+
+
         }
     }
 }
