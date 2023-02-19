@@ -19,6 +19,10 @@ namespace SeleniumAutomation1
     class TestFile
     {
 
+
+        public static int SSN;
+
+
         public static void Main(string[] args)
         {
             
@@ -28,6 +32,8 @@ namespace SeleniumAutomation1
 
 
             // int myNum = 100;
+
+
 
 
             // this changes are being made from Github
