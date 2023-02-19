@@ -49,10 +49,12 @@ namespace SeleniumAutomation1
             // string 
             driver.Navigate().GoToUrl("https://www.guru99.com/");
 
-
+            // Today is Sunday
+            // I am came in the class at 10 am
             driver.Manage().Window.Minimize();
             Thread.Sleep(2000);
             driver.Manage().Window.Maximize();
+            
             Thread.Sleep(2000);
             driver.Manage().Window.FullScreen();
       
