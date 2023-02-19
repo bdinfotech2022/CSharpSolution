@@ -25,7 +25,12 @@ namespace SeleniumAutomation1
 
         public static void Main(string[] args)
         {
-            
+
+            // kayes added these
+
+            int n1 = 100, n2 = 200;
+
+
             // My name Nayon
             // I am lerning
 
