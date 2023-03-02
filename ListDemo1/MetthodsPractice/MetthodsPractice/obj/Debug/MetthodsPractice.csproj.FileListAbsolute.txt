@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\bin\Debug\MetthodsPractice.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\bin\Debug\MetthodsPractice.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\bin\Debug\MetthodsPractice.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\obj\Debug\MetthodsPractice.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\obj\Debug\MetthodsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\obj\Debug\MetthodsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\obj\Debug\MetthodsPractice.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MetthodsPractice\MetthodsPractice\obj\Debug\MetthodsPractice.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\bin\Debug\StringPractice.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\bin\Debug\StringPractice.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\bin\Debug\StringPractice.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\obj\Debug\StringPractice.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\StringPractice\StringPractice\obj\Debug\StringPractice.pdb

@@ -1,0 +1,15 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\ExcelReading.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\ExcelReading.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\ExcelReading.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\EPPlus.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\EPPlus.xml
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.CopyComplete
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExcelReading\ExcelReading\obj\Debug\ExcelReading.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\obj\Debug\MakeupCLass.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\obj\Debug\MakeupCLass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\obj\Debug\MakeupCLass.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\bin\Debug\MakeupCLass.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\bin\Debug\MakeupCLass.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\bin\Debug\MakeupCLass.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\obj\Debug\MakeupCLass.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MakeupCLass\MakeupCLass\obj\Debug\MakeupCLass.pdb

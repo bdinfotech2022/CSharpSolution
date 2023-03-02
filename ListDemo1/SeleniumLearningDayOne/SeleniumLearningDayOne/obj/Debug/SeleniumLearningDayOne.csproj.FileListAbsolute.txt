@@ -1,0 +1,14 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\SeleniumLearningDayOne.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\SeleniumLearningDayOne.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\SeleniumLearningDayOne.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\WebDriver.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\bin\Debug\WebDriver.Support.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.csproj.CopyComplete
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\SeleniumLearningDayOne\SeleniumLearningDayOne\obj\Debug\SeleniumLearningDayOne.pdb

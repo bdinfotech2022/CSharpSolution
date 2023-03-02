@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\bin\Debug\OuProject.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\bin\Debug\OuProject.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\bin\Debug\OuProject.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\obj\Debug\OuProject.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\obj\Debug\OuProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\obj\Debug\OuProject.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\obj\Debug\OuProject.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\OuProject\OuProject\obj\Debug\OuProject.pdb

@@ -1,0 +1,15 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\DataFromExc el.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\DataFromExc el.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\DataFromExc el.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\EPPlus.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\EPPlus.xml
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExcel.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExcel.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExcel.csproj.CopyComplete
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExc el.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\DataFromExc el\DataFromExc el\obj\Debug\DataFromExc el.pdb
