@@ -19,6 +19,7 @@ namespace SeleniumAutomation1
     class TestFile
     {
 
+        // comment
 
         public static int SSN;
 
