@@ -24,7 +24,7 @@ namespace SeleniumAutomation1
         public static int SSN;
 
 
-        public static void Main(string[] args)
+        public static void Test(string[] args)
         {
 
             int x = 20;
