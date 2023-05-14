@@ -27,6 +27,12 @@ namespace SeleniumAutomation1
         public static void Main(string[] args)
         {
 
+            int x = 20;
+            int y = 30;
+            int sum = x + y;
+            Console.WriteLine(sum);
+
+
             // kayes added these
 
             int n1 = 100, n2 = 200;
