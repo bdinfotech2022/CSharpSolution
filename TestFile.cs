@@ -48,6 +48,8 @@ namespace SeleniumAutomation1
 
             string name = "Ramesh Bhandari!";
 
+            int ssn = 12345345;
+
 
 
             // My name Nayon
