@@ -19,7 +19,16 @@ namespace SeleniumAutomation1
     class TestFile
     {
 
+<<<<<<< HEAD
+        // comment: from The Ramesh! Hi There!
+        // comment: from The Ramesh! Hi There!
+
+
+        // I am learning new thing like Git!
+
+=======
         // comment: Zakir bhai good morning
+>>>>>>> 9f4d55f6f8235c0d36120e387dcb1d5ac8f93f6d
 
         public static int SSN;
 
@@ -51,6 +60,11 @@ namespace SeleniumAutomation1
 
 
             // this changes are being made from Github
+
+
+
+
+
             
             string desc = "commit korar pore kotahy jabo";
 
