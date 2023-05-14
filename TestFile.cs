@@ -50,6 +50,12 @@ namespace SeleniumAutomation1
 
             int ssn = 12345345;
 
+            int r = 50;
+            Console.WriteLine(r);
+
+
+            
+
 
 
             // My name Nayon
@@ -70,7 +76,7 @@ namespace SeleniumAutomation1
 
 
 
-            
+
             string desc = "commit korar pore kotahy jabo";
 
             int num = 20;
